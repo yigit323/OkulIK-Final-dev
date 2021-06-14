@@ -1,0 +1,23 @@
+[ 
+ {
+  "KimlikNo":"012",
+  "Ad":"Erce",
+  "Soyad":"Odun",
+  "Dogum Tarih":"02/01/1992",
+  "Gorev":3
+  },
+ {
+  "KimlikNo":"013",
+  "Ad":"Mithat",
+  "Soyad":"Beser",
+  "Dogum Tarih":"12/12/1979",
+  "Gorev":2
+ },
+ {
+  "KimlikNo":"014",
+  "Ad":"Nur",
+  "Soyad":"Kılıc",
+  "Dogum Tarih":"08/04/1974",
+  "Gorev":1
+  }
+]

@@ -1,0 +1,32 @@
+[ 
+ {
+  "OgrenciNo":"001",
+  "Ad":"Yigit",
+  "Soyad":"Kalkan",
+  "Dogum Tarih":"14/11/2002",
+  "Bolum":0,
+  "Sınıf":"MO3",
+  "Not Ortalaması":3,
+  "DersNo":1
+  },
+ {
+  "OgrenciNo":"002",
+  "Ad":"Burak",
+  "Soyad":"Demir",
+  "Dogum Tarih":"10/09/2002",
+  "Bolum":1,
+  "Sınıf":"MO1",
+  "Not Ortalaması":2,
+  "DersNo":2
+ },
+ {
+  "OgrenciNo":"003",
+  "Ad":"Eylul",
+  "Soyad":"Kılıc",
+  "Dogum Tarih":"05/04/2002",
+  "Bolum":3,
+  "Sınıf":"MO2",
+  "Not Ortalaması":4,
+  "DersNo":3
+ }
+]

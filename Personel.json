@@ -1,0 +1,47 @@
+[ 
+ {
+  "KimlikNo":004,
+  "Ad":"Osman",
+  "Soyad":"Kemik",
+  "Dogum Tarih":"12/12/1975",
+  "Departman":0,
+  "Gorev":0,
+  "BaslamaTarih":"10/09/2015
+  },
+ {
+  "KimlikNo":005,
+  "Ad":"Hülya",
+  "Soyad":"Kemik",
+  "Dogum Tarih":"11/07/1989",
+  "Departman":1,
+  "Gorev":1,
+  "BaslamaTarih":"11/09/2016
+ },
+ {
+  "KimlikNo":006,
+  "Ad":"Tarik",
+  "Soyad":"Akan",
+  "Dogum Tarih":"08/03/1980",
+  "Departman":2,
+  "Gorev":2,
+  "BaslamaTarih":"07/01/2011
+ },
+ {
+ "KimlikNo":007,
+  "Ad":"Melek",
+  "Soyad":"Ornek",
+  "Dogum Tarih":"03/12/1990",
+  "Departman":3,
+  "Gorev":1,
+  "BaslamaTarih":"10/09/2018
+ },
+ {
+ "KimlikNo":008,
+  "Ad":"Koray",
+  "Soyad":"Zafer",
+  "Dogum Tarih":"01/02/1986",
+  "Departman":4,
+  "Gorev":2,
+  "BaslamaTarih":"03/03/20017
+ }
+]

@@ -1,0 +1,23 @@
+[ 
+ {
+  "KimlikNo":"009",
+  "Ad":"Nuran",
+  "Soyad":"Kacar",
+  "Dogum Tarih":"11/04/1980",
+  "Gorev":0
+  },
+ {
+  "KimlikNo":"010",
+  "Ad":"Leyla",
+  "Soyad":"Isık",
+  "Dogum Tarih":"12/12/1994",
+  "Gorev":1
+ },
+ {
+  "KimlikNo":"011",
+  "Ad":"Ayse",
+  "Soyad":"Ozgur",
+  "Dogum Tarih":"08/03/1996",
+  "Gorev":3
+  }
+]

@@ -1,0 +1,20 @@
+[ 
+ {
+  "DersNo":"015",
+  "Ad":"BilgisayarMuhendisligi",
+  "Acıklama":"20 Kisi",
+  "OgretimGorevlisi":"012"
+  },
+ {
+  "DersNo":"016",
+  "Ad":"BilgisayarProgramciligi",
+  "Acıklama":"40 Kisi",
+  "OgretimGorevlisi":"013"
+  },
+  {
+  "DersNo":"017",
+  "Ad":"MakineMuhendisligi",
+  "Acıklama":"25 Kisi",
+  "OgretimGorevlisi":"012"
+  },
+]
