@@ -1,1 +1,2 @@
-# OkulIK-Final-dev
+                         .Net Final Ödevi
+1.Programı Çalıştırmak İçin 
